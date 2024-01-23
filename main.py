@@ -4,7 +4,6 @@ import os
 import time
 import string
 
-
 is_open = True
 file_exists = False
 
